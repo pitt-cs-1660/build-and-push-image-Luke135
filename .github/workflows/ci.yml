@@ -45,4 +45,4 @@ jobs:
         run: |
           docker build -t us-central1-docker.pkg.dev/cs1660-assignment3/build-and-push-image-luke135/cs-1660-assignment3:v1 .
           docker push us-central1-docker.pkg.dev/cs1660-assignment3/build-and-push-image-luke135/cs-1660-assignment3:v1
-          --> us-central1.pkg.dev/cc-fall2024/dansc0de/node-demo:v1 <--
+#          --> us-central1.pkg.dev/cc-fall2024/dansc0de/node-demo:v1 <--
