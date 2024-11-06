@@ -1,0 +1,11 @@
+TimeSeries ID,workload_identity_federation/count.iam.googleapis.com/WorkloadIdentityPoolProvider.ALIGN_RATE.REDUCE_SUM.metric.type="iam.googleapis.com/workload_identity_federation/count" resource.type="iam.googleapis.com/WorkloadIdentityPoolProvider" metric.label."result"="success".60s.pool_id:github.project_id:cs1660-assignment3
+project_id,cs1660-assignment3
+pool_id,github
+Tue Nov 05 2024 18:58:00 GMT-0500 (Eastern Standard Time),0.006388717589737607
+Tue Nov 05 2024 18:59:00 GMT-0500 (Eastern Standard Time),0.029444101846141883
+Tue Nov 05 2024 19:00:00 GMT-0500 (Eastern Standard Time),0.03722256482052478
+Tue Nov 05 2024 19:01:00 GMT-0500 (Eastern Standard Time),0.029444101846141883
+Tue Nov 05 2024 19:02:00 GMT-0500 (Eastern Standard Time),0.03083384723078718
+Tue Nov 05 2024 19:04:00 GMT-0500 (Eastern Standard Time),0.01916615276921282
+Tue Nov 05 2024 19:05:00 GMT-0500 (Eastern Standard Time),0.056388717589737604
+Tue Nov 05 2024 19:06:00 GMT-0500 (Eastern Standard Time),0.04111179630771624
